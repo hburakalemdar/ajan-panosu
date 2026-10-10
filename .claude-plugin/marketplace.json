@@ -1,0 +1,5 @@
+{
+  "name": "burak-mods",
+  "owner": { "name": "Burak Alemdar" },
+  "plugins": [{ "name": "ajan-panosu", "source": "./" }]
+}

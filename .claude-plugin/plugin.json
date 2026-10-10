@@ -1,0 +1,7 @@
+{
+  "name": "ajan-panosu",
+  "version": "0.9.52",
+  "description": "Claude'u ve alt ajanlarını animasyonlu piksel maskotlarla canlı gösteren yan panel",
+  "author": { "name": "Burak Alemdar" },
+  "types": "./types/index.d.ts"
+}
